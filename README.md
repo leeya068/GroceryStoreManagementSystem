@@ -1,5 +1,7 @@
 # 🛒 Grocery Store Management System
 
+[![Java](https://img.shields.io/badge/Java-21%2B-blue.svg)](https://www.java.com)
+
 A comprehensive console-based Grocery Store Management System implemented in Java, featuring inventory management, shopping cart functionality, and undo/redo capabilities using custom data structures.
 
 ---
