@@ -54,7 +54,7 @@ The system demonstrates the practical application of different data structures b
 
 ## 📁 Project Structure
 
-'''
+```
 📦 grocery-store-management/
 │
 ├── 📂 src/
@@ -68,7 +68,7 @@ The system demonstrates the practical application of different data structures b
 │
 ├── 📊 inventory.txt
 └── 📖 README.md
-'''
+```
 
 ---
 
