@@ -1,0 +1,9 @@
+1,Apple,3.5,100
+2,Banana,2.0,150
+3,Orange,4.0,80
+4,Milk,5.5,50
+5,Bread,3.0,58
+6,Eggs,8.0,40
+7,Chicken,12.0,30
+8,Rice,25.0,20
+9,Chocolate,10.0,50
