@@ -54,19 +54,21 @@ The system demonstrates the practical application of different data structures b
 
 ## 📁 Project Structure
 
-grocery-store-management/
+'''
+📦 grocery-store-management/
 │
-├── src/
-│ ├── Product.java
-│ ├── CartNode.java
-│ ├── CartList.java
-│ ├── LinkedListStack.java
-│ ├── CartAction.java
-│ ├── InventoryManager.java
-│ └── GroceryStoreSystem.java
+├── 📂 src/
+│   ├── 📄 Product.java
+│   ├── 📄 CartNode.java
+│   ├── 📄 CartList.java
+│   ├── 📄 LinkedListStack.java
+│   ├── 📄 CartAction.java
+│   ├── 📄 InventoryManager.java
+│   └── 🎯 GroceryStoreSystem.java
 │
-├── inventory.txt
-└── README.md
+├── 📊 inventory.txt
+└── 📖 README.md
+'''
 
 ---
 
