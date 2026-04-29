@@ -1,3 +1,4 @@
+package src;
 public class CartAction {
     private Product product;
     private int quantity;

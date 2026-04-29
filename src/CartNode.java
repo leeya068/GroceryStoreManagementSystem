@@ -1,3 +1,4 @@
+package src;
 public class CartNode {
     private Product product;
     private int quantity;
